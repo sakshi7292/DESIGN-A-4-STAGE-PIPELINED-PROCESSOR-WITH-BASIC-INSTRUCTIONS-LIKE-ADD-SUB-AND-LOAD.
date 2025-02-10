@@ -25,4 +25,4 @@ The repository is organized to facilitate easy integration, testing, and further
 
 
 OUTPUT:
-Image](https://github.com/user-attachments/assets/4f06cab7-d749-4a7e-917d-30e29eb8e9d9)
+![Image](https://github.com/user-attachments/assets/4f06cab7-d749-4a7e-917d-30e29eb8e9d9)
